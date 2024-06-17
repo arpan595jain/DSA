@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     string reverseWords(string s) {
         reverse(s.begin(),s.end());
