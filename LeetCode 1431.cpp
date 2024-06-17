@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
       int maxm=INT_MIN;
