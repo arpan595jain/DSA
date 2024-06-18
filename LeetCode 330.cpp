@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     int minPatches(vector<int>& nums, int n) {
         long long miss = 1;
