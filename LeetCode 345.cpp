@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     bool vowel(char c){
         c = tolower(c);
