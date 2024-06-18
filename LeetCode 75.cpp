@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     void sortColors(vector<int>& nums) {
          int l = 0;
