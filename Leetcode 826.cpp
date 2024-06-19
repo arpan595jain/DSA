@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     int maxProfitAssignment(vector<int>& difficulty, vector<int>& profit, vector<int>& worker) {
         int maxDifficulty = *max_element(difficulty.begin(), difficulty.end());
