@@ -1,4 +1,4 @@
-class Solution {
+class Solution{
 public:
     bool judgeSquareSum(int c) {
         for(long a=0;a*a<=c;a++){
