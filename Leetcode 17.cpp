@@ -1,6 +1,6 @@
 class Solution {
 private:
-    // Recursive function to generate letter combinations
+  
     void solve(string digits, vector<string>& ans, int index, string output, string mapping[]) {
         // Base case: If we have processed all digits, add the output to the result
         if (index >= digits.length()) {
