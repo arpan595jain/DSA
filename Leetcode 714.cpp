@@ -4,7 +4,6 @@ public:
         int n=v.size();
         if(ind==n) return 0;
         if(dp[ind][flg]!=-1) return dp[ind][flg];
-
         int ans=0;
 
         if(flg){
