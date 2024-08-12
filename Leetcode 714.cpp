@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     int func(vector<vector<int>>&dp, vector<int>&v, int ind, bool flg, int fee){
         int n=v.size();
         if(ind==n) return 0;
