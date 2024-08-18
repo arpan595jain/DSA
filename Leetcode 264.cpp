@@ -1,7 +1,6 @@
 class Solution {
 public:
     int nthUglyNumber(int n) {
-
         vector<int> dp(n);
         dp[0] = 1;
 
